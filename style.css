@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+
+.navlist {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    background-color: cornflowerblue;
+}
+
+#welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: crimson;
+    width: 100vh;
+    height:100vh;
+}
+
+h1{
+    color:navy;
+}
